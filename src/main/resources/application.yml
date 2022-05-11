@@ -1,0 +1,6 @@
+application:
+  jwt:
+    secret: "m0N_Sup3R_C0d3_S3creT"
+    expires: 86400000
+    prefix: "Bearer "
+    header: "Authorization"
